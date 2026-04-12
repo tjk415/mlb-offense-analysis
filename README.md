@@ -13,4 +13,12 @@ offensive statistics best predict winning percentage.
 Python, pandas, NumPy, matplotlib, seaborn
 
 ## Data Sources
-- FanGraphs (team batting stats and standings)
+- **Batting data:** Team batting statistics from 
+  [FanGraphs](https://www.fangraphs.com/leaders/major-league) 
+  (2016–2025, team-level)
+- **Standings data:** Team win-loss records from 
+  [Baseball Reference](https://www.baseball-reference.com/leagues/majors/) 
+  (2016–2025)
+
+Both datasets were manually compiled into Google Sheets and 
+loaded into Google Colab for analysis.
