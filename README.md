@@ -10,7 +10,7 @@ offensive statistics best predict winning percentage.
 - OBP predicts wins far better than batting average
 - wRC+ is the single strongest predictor of team success
 - Strikeouts are surprisingly weak as a negative indicator
-- Stolen bases have virtually no impact on winning
+- Offense does not tell the full story. Pitching and defense are also important factors.
 
 ## Tools
 Python, pandas, NumPy, matplotlib, seaborn
