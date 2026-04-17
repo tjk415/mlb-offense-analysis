@@ -1,7 +1,5 @@
-# Retail Sales Performance Tracker
-**Author:** Thomas Kirvin
-
 # MLB Offense to Winning Analysis: What Offensive Stats Actually Win Games?
+**Author:** Thomas Kirvin
 
 Analyzed 300 MLB team-seasons (2016–2025) to identify which 
 offensive statistics best predict winning percentage.
